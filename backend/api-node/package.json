@@ -1,0 +1,39 @@
+{
+  "name": "payunit-rest-api-nodejs",
+  "version": "1.0.0",
+  "description": "Small tutorial to show you how to use the payunit rest API for payments on your website. Here I am using Node Js technology.",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnjifanda/payunit-rest-api-nodejs.git"
+  },
+  "keywords": [
+    "Payunit",
+    "Rest",
+    "API",
+    "Node",
+    "Js",
+    "Payunit",
+    "Orange",
+    "Money",
+    "API",
+    "MTN",
+    "API"
+  ],
+  "author": "Mr NJIFANDA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrnjifanda/payunit-rest-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/mrnjifanda/payunit-rest-api-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
